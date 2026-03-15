@@ -1,6 +1,6 @@
 # 1.0.3
 
-- Updated to work with the latest version of Geode and fixed some minor issues.
+- Updated to work with the latest version of Geode, added hue shifting, added black and white mode, decreased the random pause frequency, and fixed some minor issues
 
 # v1.0.2
 

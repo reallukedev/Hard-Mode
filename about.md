@@ -12,6 +12,8 @@ This mod works best with pre-2.2 levels, as shaders kind of mess up the screen o
 - <cy>Spin</c> the screen.
 - <cy>Scale</c> the screen in and out.
 - <cy>Skew</c> the screen horizontally and vertically.
+- <cy>Hue shift</c> the entire game.
+- <cy>Black & white</c> the entire game.
 - <cy>Pause</c> the game randomly.
 - <cy>Scale</c> the player.
 - <cy>Increase</c> and decrease the size of the player.
