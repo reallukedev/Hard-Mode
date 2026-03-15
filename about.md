@@ -2,6 +2,8 @@
 
 <cy>Warning: epilepsy and possible motion sickness warning.</c>
 
+<cy>2.2 levels have issues with shaders, so it is recommended to enable auto-disable shaders option (disabled by default) that will automatically disable shaders if incompatible options are selected if you play 2.2 levels.</c>
+
 Have you ever thought that Geometry Dash is too <cr>easy</c> to read? Introducing <cr>H</c><co>a</c><cy>r</c><cg>d</c> <cf>M</c><cb>o</c><ca>d</c><cd>e</c>: a mod that makes the game <cg>very annoying</c> to play!
 
 This mod works best with pre-2.2 levels, as shaders kind of mess up the screen options; however, it includes an auto-disable shaders option (disabled by default) that will automatically disable shaders if incompatible options are selected. <cy>This option might make some levels easier, so it should be used with caution.</c> Player settings and random pause are not affected by this.
