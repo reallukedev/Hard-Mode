@@ -22,7 +22,4 @@ endif()
 
 add_subdirectory($ENV{GEODE_SDK} ${CMAKE_CURRENT_BINARY_DIR}/geode)
 
-find_package(ZLIB REQUIRED)
-target_link_libraries(${PROJECT_NAME} ZLIB::ZLIB)
-
 setup_geode_mod(${PROJECT_NAME})
