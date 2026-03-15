@@ -1,14 +1,14 @@
 {
-    "geode": "4.0.1",
-    "gd": {
-        "win": "2.2074",
-        "android": "2.2074",
-        "mac": "2.2074",
-        "ios": "2.2074"
-    },
+    "geode": "5.3.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
     "id": "realluke.hard_mode",
     "name": "Hard Mode",
-    "version": "v1.0.1",
+    "version": "v1.0.3",
     "developer": "Realluke",
     "description": "A mod that visually makes the game harder.",
     "settings": {
@@ -39,6 +39,18 @@
             "name": "Enable Skew Y",
             "description": "Skews the screen vertically.",
             "default": true
+        },
+        "hueShift": {
+            "type": "bool",
+            "name": "Enable Hue Shift",
+            "description": "Shifts the hue of the entire game.",
+            "default": true
+        },
+        "blackAndWhite": {
+            "type": "bool",
+            "name": "Enable Black & White",
+            "description": "Makes the entire game black and white.",
+            "default": false
         },
         "playerSettingsTitle": {
             "type": "title",
